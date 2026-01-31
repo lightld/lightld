@@ -18,18 +18,18 @@
   <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a>
 </p>
 
-**<h3 align="left">💙 Junior Java developer. I develop interesting Minecraft plugins and mods.</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
-- 💼 I'm currently working on: **💻 LogDev**
-- 🌱 I'm currently learning: **📚 Java**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- 📝 Blog: **<a href="https://www.youtube.com/@l1ght678" target="_blank">https://www.youtube.com/@l1ght678</a>**
+**<h3 align="left">About me:</h3>**
+<p align="left">
+  💙 I'm currently actively developing my studio, <strong>LogDev</strong>, which develops Minecraft plugins and builds.<br>
+  🌑 I'm passionate about Java and developing interesting projects.<br>
+  💬 I'll be posting my cool developments on my GitHub page.<br>
+  📝 YouTube: <a href="https://www.youtube.com/@l1ght678" target="_blank">https://www.youtube.com/@l1ght678</a><br>
+  📚 My studio: <a href="https://t.me/logdevstudio" target="_blank">https://t.me/logdevstudio</a>
+</p>
 
 **<h3 align="left">Skills</h3>**
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Java-100%25-007396?logo=java&logoColor=white&labelColor=555555" height="28" alt="Java 100%">
 </div>
 
 **<h3 align="left">GitHub Stats</h3>**
