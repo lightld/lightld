@@ -25,8 +25,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 💙 **Actively developing my studio [LogDev](https://t.me/logdevstudio)** — we specialize in creating Minecraft plugins and server builds
 
 🌑 **Passionate about Java** and building cool & interesting projects
