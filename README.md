@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=L1ght%20Developer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 </div>
 
 <div align="center">
@@ -69,87 +68,6 @@
 
 ---
 
-## 🎮 Мои проекты
-
-<div align="center">
-
-### 🏆 Избранные разработки
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🏆 NBattlePass
-**Система Battle Pass для Minecraft серверов**
-- ✅ Система квестов с прогрессией
-- 🎁 Настраиваемые награды
-- 📊 Интеграция с PlaceholderAPI
-- 💾 Поддержка MySQL/SQLite
-
-</td>
-<td width="50%">
-
-#### 💰 Economy Плагины
-**Интеграция с экономическими системами**
-- 🪙 Интеграция с TokenManager
-- 👾 Поддержка MobCoins+
-- 💎 Совместимость с Vault API
-- 📈 Расширенная статистика
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🎯 Системы квестов
-**Комплексные системы заданий и прогрессии**
-- 🔄 Многоэтапные квесты
-- 🏅 Система достижений
-- ⏰ Временные вызовы
-- 🎁 Динамические награды
-
-</td>
-<td width="50%">
-
-#### 🖥️ Пользовательские GUI системы
-**Интерактивные пользовательские интерфейсы**
-- 🎨 Красивые анимированные GUI
-- 🔗 Поддержка PlaceholderAPI
-- ⚡ Высокая производительность
-- 🛠️ Простая настройка
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🔧 В разработке
-- 🏆 **Продвинутая система рангов** - система рангов с интеграцией PlaceholderAPI
-- 🔌 **Многофункциональный Core плагин** - многофункциональное ядро для серверов
-- 🌐 **REST API** - для управления серверными данными
-- 📚 **Open-source фреймворк** - фреймворк для разработки плагинов
-
----
-
-## 📊 GitHub статистика
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lightld&theme=tokyonight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=lightld&theme=tokyonight&hide_border=false&date_format=M+j%5B%2C+Y%5D" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightld&theme=tokyonight&hide_title=false&layout=compact&langs_count=8&hide_progress=false" alt="Top languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=lightld&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lightld&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🌐 Связаться со мной
 
 <div align="center">
@@ -168,10 +86,8 @@
   
 ### ⭐ "Код должен работать не только правильно, но и красиво" ⭐
 
-![Snake animation](https://github.com/lightld/lightld/blob/output/github-contribution-grid-snake.svg)
 
 **Спасибо за посещение моего профиля! 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
