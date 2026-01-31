@@ -12,15 +12,12 @@
 
   [![GitHub followers](https://img.shields.io/github/followers/lightld?label=Followers&style=social)](https://github.com/lightld?tab=followers)
 
-  [![Years Badge](https://badges.pufler.dev/years/lightld?style=flat-square&color=blue&logo=github)](https://github.com/lightld)
 
   
 
   **💙 Junior Java Developer | 🌙 Founder of LogDev Studio**
 
-  
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Minecraft+Plugin+Expert;Spigot%2FPaper+API+Specialist;Database+Architecture+Designer;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
 
