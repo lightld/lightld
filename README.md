@@ -43,27 +43,37 @@
 ## 🛠️ My Stack
 
 <div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
- 
-**Minecraft:**  
-![Spigot](https://img.shields.io/badge/Spigot-FF6B35?style=flat-square&logo=minecraft&logoColor=white)
-![Paper](https://img.shields.io/badge/Paper-00A8CC?style=flat-square&logo=minecraft&logoColor=white)
-![Forge](https://img.shields.io/badge/Forge-1976D2?style=flat-square&logo=minecraft&logoColor=white)
-![Fabric](https://img.shields.io/badge/Fabric-DBA506?style=flat-square&logo=minecraft&logoColor=white)
-
- 
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
- 
-**Tools:**  
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-
+  <table>
+    <tr>
+      <td><b>Main Language</b></td>
+      <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></td>
+    </tr>
+    <tr>
+      <td><b>I write for</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Spigot-FF6B35?style=for-the-badge&logo=minecraft&logoColor=white" alt="Spigot"/>
+        <img src="https://img.shields.io/badge/Paper-00A8CC?style=for-the-badge&logo=minecraft&logoColor=white" alt="Paper"/>
+        <img src="https://img.shields.io/badge/Forge-1976D2?style=for-the-badge&logo=minecraft&logoColor=white" alt="Forge"/>
+        <img src="https://img.shields.io/badge/Fabric-DBA506?style=for-the-badge&logo=minecraft&logoColor=white" alt="Fabric"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Databases</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Tools & Development</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven"/>
+        <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
