@@ -4,7 +4,7 @@
 
   
 
-  # 👋 Hi, I'm L1ght!
+  # 👋 Hi, I'm m1say!
 
   
 
@@ -91,6 +91,6 @@
 
   
 
-### 💬 "I'm on Discord - l1ghtld - Open to cooperation <3**
+### 💬 "I'm on Discord - m1say.dev - Open to cooperation <3**
 
 </div>
